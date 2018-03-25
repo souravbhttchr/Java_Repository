@@ -16,7 +16,7 @@ public class RegexExample {
 		if(validChar){
 			System.out.println("Regex matches...");
 		} else{
-			System.out.println("Doesn't match....");
+			System.out.println("Doesn't match...");
 		}
 		
 	}

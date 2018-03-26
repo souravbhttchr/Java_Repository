@@ -18,7 +18,7 @@ public class PrintHockeyStick {
 		
 		int targetIndex = targetRow;
 		
-		System.out.println("Enter length of HockeyStick :");
+		System.out.println("Enter length of HockeyStick : ");
 		
 		int length = sc.nextInt();
 		
